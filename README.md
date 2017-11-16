@@ -6,6 +6,8 @@ Integrate with the [Survey Gizmo API](https://apihelp.surveygizmo.com/help) usin
 
 Currently supports SurveyGizmo API **v4** (default) and **v3**.
 
+This gem is owned by Team Blue.
+
 ## Version History
 
 [See the change log.](CHANGELOG.md)
